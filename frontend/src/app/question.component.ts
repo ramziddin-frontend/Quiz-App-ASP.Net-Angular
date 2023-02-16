@@ -1,7 +1,8 @@
 import { Component } from "@angular/core";
 
 @Component ({
-  template: '<h1>Bu savol</h1>',
+  templateUrl: './questioncomponent.html',
+
   selector: 'question'
 })
 
